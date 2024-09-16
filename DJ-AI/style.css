@@ -1,0 +1,58 @@
+s.heading {
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+}
+
+.note {
+  font-size: 10px;
+  color: black;
+}
+
+body {
+  background: url('https://shop.biggames.io/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0039%2F9658%2F1961%2Ffiles%2Fbiggames-148405-titanicplushphotoredos_Axolotl1920x1080_S.png%3Fv%3D1717615579&w=1920&q=75');
+  background-size: cover;
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+.speed {
+  float: left;
+}
+
+.volumen{
+  float: right;
+}
+
+img {
+  width: 200px;
+  border-radius: 100px;
+}
+
+#speed {
+  font-size: 23px;
+  margin: 15px;
+}
+
+#volumen {
+  font-size: 23px;
+  margin: 15px;
+}
+
+.play_button {
+  width: 65px;
+  font-size: 8px;
+}
+
+button:hover {
+  background-color: rgb(75, 13, 75) !important;
+  padding-right: 1.5px !important;
+  transition: 1.1s;
+}
+
+canvas{
+  border: 5px ridge aquamarine;
+  border-radius: 20%;ssssasad
+}
